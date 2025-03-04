@@ -21,3 +21,5 @@ Python
 Mediapipe (for hand tracking)
 
 OpenCV (for image processing and visualization)
+
+You can apply both hand fingure countung in this code.
