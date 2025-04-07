@@ -25,5 +25,5 @@ This project utilizes Mediapipe and OpenCV to detect a single hand, count the nu
 -----------------------
 ### 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/hand-detection-finger-counting.git
+   git clone https://github.com/Dhruvil369/RealTime_Finger_Counting.git
    cd hand-detection-finger-counting
