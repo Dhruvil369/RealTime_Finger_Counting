@@ -1,25 +1,31 @@
-Hand Detection and Finger Counting using Mediapipe & OpenCV
+##############################################################
+#           Hand Detection and Finger Counting               #
+#             using Mediapipe & OpenCV                        #
+##############################################################
 
-📌 Overview
+📌 **Overview**
+---------------
+This project utilizes Mediapipe and OpenCV to detect a single hand, count the number of fingers extended, and display the count on the screen in real-time. It's an efficient and lightweight solution for hand gesture recognition and finger counting.
 
-This project utilizes Mediapipe and OpenCV to detect a single hand, count the number of fingers extended, and display the count on the screen in real-time.
+--------------------------------------------------------------
+🚀 **Features**
+----------------
+- Detects a **single hand** using Mediapipe Hand Tracking.
+- **Counts the number of fingers** that are open.
+- Displays the **finger count** on the screen in real-time.
+- **Efficient** and **lightweight** implementation for fast processing.
 
-🚀 Features
+--------------------------------------------------------------
+🛠️ **Technologies Used**
+-------------------------
+- **Python**: Programming language for development.
+- **Mediapipe**: Library for **hand tracking** and **gesture recognition**.
+- **OpenCV**: Used for **image processing** and **visualization**.
 
-Detects a single hand using Mediapipe Hand Tracking.
-
-Counts the number of fingers that are open.
-
-Displays the finger count on the screen in real-time.
-
-Efficient and lightweight implementation.
-
-🛠️ Technologies Used
-
-Python
-
-Mediapipe (for hand tracking)
-
-OpenCV (for image processing and visualization)
-
-You can apply both hand fingure countung in this code.
+--------------------------------------------------------------
+📁 **Getting Started**
+-----------------------
+### 1. Clone the Repository:
+   ```bash
+   git clone https://github.com/yourusername/hand-detection-finger-counting.git
+   cd hand-detection-finger-counting
